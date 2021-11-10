@@ -1,0 +1,1 @@
+export 'package:activities/src/activities_model.dart';

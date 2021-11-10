@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Dev - Tecnofit-app",
+            "cwd": "tecnofit-app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "program": "tecnofit-app/lib/main.dart"
+            
+        }
+    ]
+}

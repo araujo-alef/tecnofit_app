@@ -1,0 +1,31 @@
+name: i18n
+description: A new Flutter package project.
+
+publish_to: 'none'
+version: 0.0.1
+homepage: null
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter: null
+
+flutter_intL:
+  enabled: true
+  arb_dia: lib/l10n
+  output_dia: lib/generated
+  main_locale: pt
+flutter_intl:
+  enabled: true
