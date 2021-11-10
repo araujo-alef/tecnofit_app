@@ -64,7 +64,7 @@ GET /api/login
 
 #### Dados para efetuar login com sucesso:
 - email: eve.holt@reqres.in
-- senha: cityslicka- 
+- senha: cityslicka
 
 
 Você encontrará o APK do projeto em "tecnofit-app/apk/app-release.apk"
